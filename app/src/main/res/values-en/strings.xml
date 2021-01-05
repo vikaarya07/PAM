@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">GithubUser3</string>
+    <string name="name" translatable="false">Vika Arya</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="url_github">https://github.com/vikaarya07</string>
+    <string name="github_user">Github User Search</string>
+    <string name="ContentTittleNotif">Github User 3</string>
+    <string name="ContentTextNotif">Github User 3</string>
+    <string name="SubTextNotif">Ayo cari tahu pengguna github dengan masuk ke aplikasi github user</string>
+</resources>

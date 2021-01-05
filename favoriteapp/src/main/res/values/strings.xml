@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FavoriteApp</string>
+    <string name="name">vikarya07</string>
+    <string name="url_github">github.com/vikaarya07</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+</resources>
